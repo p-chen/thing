@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    let thing = "apples are better than pineapples"
+    let thing = "apples are better than pineapples!! now i have punctuations!"
     
     override func viewDidLoad() {
         super.viewDidLoad()
